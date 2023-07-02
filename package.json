@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imigoroliveira/BeautifyComponents.git"
+    "url": "git+https://github.com/imigoroliveira/BeautifyLibrary.git"
   },
   "keywords": [
     "brazil",
@@ -22,9 +22,9 @@
   "author": "Igor Oliveira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imigoroliveira/BeautifyComponents/issues"
+    "url": "https://github.com/imigoroliveira/BeautifyLibrary/issues"
   },
-  "homepage": "https://github.com/imigoroliveira/BeautifyComponents#readme",
+  "homepage": "https://github.com/imigoroliveira/BeautifyLibrary#readme",
   "dependencies": {
     "@mui/material": "^5.13.6",
     "@testing-library/jest-dom": "^5.16.5",
